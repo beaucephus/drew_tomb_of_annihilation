@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-05T16:33:55-05:00
+
+====== Sneak Attack ======
+Created Tuesday 05 November 2019
+
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an Attack if you have advantage on the Attack roll. The Attack must use a Finesse or a ranged weapon.
+
+You don't need advantage on the Attack roll if another enemy of the target is within 5 feet of it, that enemy isn't Incapacitated, and you don't have disadvantage on the Attack roll.
+
+The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.

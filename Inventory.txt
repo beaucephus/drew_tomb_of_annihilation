@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-05T16:15:56-05:00
+
+====== Inventory ======
+Created Tuesday 05 November 2019
+
+studded leather armor (equipped)
+short sword
+[[:Item:Sword of the Fisha|Sword of the Fisha]]
+shortbow
+20 arrows
+2 daggers
+thieve's tools
+leatherworker's tools
+
+
+===== Explorer's Pack =====

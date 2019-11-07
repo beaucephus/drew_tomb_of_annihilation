@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-05T16:32:19-05:00
+
+====== Fey Ancestry ======
+Created Tuesday 05 November 2019
+
+You have advantage on saving throws against being charmed, and magic can’t put you to sleep.

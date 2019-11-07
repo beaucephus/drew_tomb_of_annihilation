@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-05T16:00:35-05:00
+
+====== Home ======
+Created Tuesday 05 November 2019
+
+====== Kurai Takeru Fisha ======
+
+HP: 64
+[[Inventory]]
+
+===== Elf =====
+[[Darkvision]]
+[[Fey Ancestry]]
+[[Trance]]
+[[:Spell:Message]]
+
+===== Rogue =====
+[[:Sneak Attack]]
+[[:Thieve's Cant]]
+[[:Cunning Action]]
+
+===== Fighter =====
+[[:Fighting Style:Two-Weapon Fighting]]
+[[:Improved Critical]]
+[[:Extra Attack]]
+
+===== Short Rest =====
+[[Second Wind]] 
+[[Action Surge]]
+
+===== Long Rest =====
+[[:Item:Sword of the Fisha]]
+
+
+===== 2019/11/05 =====
+Kurai is searching for the [[:Ytepka Society]] in order to learn how to capture and tame a Cultian beast.

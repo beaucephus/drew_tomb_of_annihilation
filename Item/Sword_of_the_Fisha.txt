@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-05T16:27:05-05:00
+
+====== Sword of the Fisha ======
+Created Tuesday 05 November 2019
+
+This sword appears and functions as an ordinary short sword when in its inactive state. You may activate this sword to transform it into a magnificent magical short sword and make a single weapon attack with it, ending the transformation. This attack is made with advantage and deals an extra 3d6 radiant damage. This transformation has 3 charges that reset daily at dawn.
+
+{{../Sword_of_the_Fisha_1572989058379.png}}

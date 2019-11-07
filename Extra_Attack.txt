@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-05T16:48:27-05:00
+
+====== Extra Attack ======
+Created Tuesday 05 November 2019
+
+Beginning at 5th level, you can Attack twice, instead of once, whenever you take the Attack action on Your Turn.
