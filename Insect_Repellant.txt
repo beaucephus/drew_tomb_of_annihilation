@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-07T20:20:35-05:00
+
+====== Insect Repellant ======
+Created Thursday 07 November 2019
+
+===== Insence =====
+lasts 8 hours
+20ft radius
+
+===== Salve =====
+20 doses per salve
+lasts 24 hours

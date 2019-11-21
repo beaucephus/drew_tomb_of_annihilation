@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-07T19:02:18-05:00
+
+====== Jesamine ======
+Created Thursday 07 November 2019
+
+A mercant princess of [[:Port Nianzaru]]
+
+[[:Wakanga Otamu]] thinks she might have information on [[:Syndra Sylvane]] 's curse.

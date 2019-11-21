@@ -5,6 +5,11 @@ Creation-Date: 2019-11-05T16:15:56-05:00
 ====== Inventory ======
 Created Tuesday 05 November 2019
 
+977 GP
+7 SP
+
+1 salve of [[:Insect Repellant]]
+5 sticks of incense [[:Insect Repellant]]
 studded leather armor (equipped)
 short sword
 [[:Item:Sword of the Fisha|Sword of the Fisha]]

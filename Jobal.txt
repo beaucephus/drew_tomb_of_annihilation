@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-07T19:05:29-05:00
+
+====== Jobal ======
+Created Thursday 07 November 2019
+
+Merchant prince in [[:Port Nianzaru]]
+Specializes in guides and scouts.

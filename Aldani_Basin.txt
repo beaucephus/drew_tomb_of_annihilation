@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-07T20:31:35-05:00
+
+====== Aldani Basin ======
+Created Thursday 07 November 2019
+
+Reach the Basin by following the [[:River Soshenstar]]
+
+Volo heard rumors of a Ghost village in the Basin

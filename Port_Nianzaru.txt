@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-07T18:49:45-05:00
+
+====== Port Nianzaru ======
+Created Thursday 07 November 2019
+
+Vibrant city dominated by 4 large hills
+
+===== Places of Interest =====
+
+==== Harbor ====
+in the south.
+
+==== Mercantile District ====
+north of the harbor.
+
+==== Wakanga's House ====
+Guard's name is Roger.
+Wakanga's house is on top of 1 of the hills.
+Elysium bridge to another house on one of the hills.
+
+===== Persons of Interest =====
+[[:Zindar]]
+
+==== Merchant Princes ====
+[[:Akiim Afa]]
+[[:Jesamine]]
+[[:Jobal]]
+[[:Kwaoth]]
+[[:Wakanga Otamu]]
+[[:Zamthi]]
+[[:Old Man Ifan Talroah]]

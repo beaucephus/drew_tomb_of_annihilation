@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-07T17:57:18-05:00
+
+====== Syndra Sylvane ======
+Created Thursday 07 November 2019
+
+One of the most famound merchants in [[:Baldur's Gate]]
+
+She is afflicted with curse on her right arm over 3 months.
+
+She owns a Ring of Wishes.
