@@ -34,6 +34,18 @@ HP: 64
 [[:Item:Sword of the Fisha]]
 
 
+===== 2019/11/21 =====
+Leaving [[:Port Nianzaru]] for [[:Fort Beluarian]]
+Applied [[:Insect Repellant]] incense.
+Fought deinonychus, zombies, and ghouls/ghast
+Estimate thin towering spire at hex 4233
+Found [[:Sinda Berry Bush]]
+Crossed the Gorge of Death!!!
+
+HP 30
+action surge
+
+
 ===== 2019/11/05 =====
 Borg tried pickpocket.
 Met Volo who spoke of a Ghost village near the [[:Aldani Basin]]

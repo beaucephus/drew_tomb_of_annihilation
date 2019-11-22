@@ -8,8 +8,8 @@ Created Tuesday 05 November 2019
 977 GP
 7 SP
 
-1 salve of [[:Insect Repellant]]
-5 sticks of incense [[:Insect Repellant]]
+1 salve (19 doses) of [[:Insect Repellant]]
+4 sticks of incense [[:Insect Repellant]]
 studded leather armor (equipped)
 short sword
 [[:Item:Sword of the Fisha|Sword of the Fisha]]
@@ -18,6 +18,10 @@ shortbow
 2 daggers
 thieve's tools
 leatherworker's tools
+Pocketsand
+15 square feet deinonychus hide
+2 deinonychus claws
+30 deinonychus teeth
 
 
 ===== Explorer's Pack =====
