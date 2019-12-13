@@ -18,10 +18,13 @@ shortbow
 2 daggers
 thieve's tools
 leatherworker's tools
-Pocketsand
+Pocket sand
 15 square feet deinonychus hide
 2 deinonychus claws
 30 deinonychus teeth
+Stone souvenier from bridge spanning the Gorge of Death
+[[Dagger of the Hunt]]
+[[Spy's Oil]]
 
 
 ===== Explorer's Pack =====

@@ -33,6 +33,15 @@ HP: 64
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
 
+===== 2019/12/12 =====
+Ambushed by vines, Quasha got stolen by flying creature.
+Climbed the tower in hex 4233. Fought spiders and zombies.
+Found special dagger and oil.
+Short rest.
+
+HP: 63
+
+
 
 ===== 2019/11/21 =====
 Leaving [[:Port Nianzaru]] for [[:Fort Beluarian]]
@@ -41,9 +50,7 @@ Fought deinonychus, zombies, and ghouls/ghast
 Estimate thin towering spire at hex 4233
 Found [[:Sinda Berry Bush]]
 Crossed the Gorge of Death!!!
-
-HP 30
-action surge
+Gathered stone piece from the bridge from the Gorge of Death
 
 
 ===== 2019/11/05 =====
