@@ -5,7 +5,7 @@ Creation-Date: 2019-11-05T16:15:56-05:00
 ====== Inventory ======
 Created Tuesday 05 November 2019
 
-977 GP
+996 GP
 7 SP
 
 1 salve (19 doses) of [[:Insect Repellant]]
@@ -23,8 +23,8 @@ Pocket sand
 2 deinonychus claws
 30 deinonychus teeth
 Stone souvenier from bridge spanning the Gorge of Death
-[[Dagger of the Hunt]]
-[[Spy's Oil]]
+[[:Item:Dagger of the Hunt]]
+[[:Item:Spy's Oil]]
 
 
 ===== Explorer's Pack =====

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-01-08T18:05:11-05:00
+
+====== Dagger of the Hunt ======
+Created Wednesday 08 January 2020
+
+If used to harvest pelt from animals, you always get the maximum amount.

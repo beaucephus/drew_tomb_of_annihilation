@@ -33,15 +33,22 @@ HP: 64
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
 
+===== 2020/01/08 =====
+Giant rock in the sky probably around hex 3740
+Saved an arrakora in the Pterrofolk tower
+Defeated the Pterrofolk and investigated the zigurrat atop it. Found magic ring.
+
+HP: 46
+action surge
+second wind
+Sword of the Fisha: 2
+
+
 ===== 2019/12/12 =====
 Ambushed by vines, Quasha got stolen by flying creature.
 Climbed the tower in hex 4233. Fought spiders and zombies.
 Found special dagger and oil.
 Short rest.
-
-HP: 63
-
-
 
 ===== 2019/11/21 =====
 Leaving [[:Port Nianzaru]] for [[:Fort Beluarian]]
