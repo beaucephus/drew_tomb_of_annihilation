@@ -5,23 +5,26 @@ Creation-Date: 2019-11-05T16:15:56-05:00
 ====== Inventory ======
 Created Tuesday 05 November 2019
 
-996 GP
-7 SP
+986 GP
+6 SP
 
-1 salve (19 doses) of [[:Insect Repellant]]
-4 sticks of incense [[:Insect Repellant]]
+rope (100ft)
+Potion of Healing (2)
+Potion of Greater Healing (2)
+salve (18 doses) of [[:Insect Repellant]]
+sticks of incense (4) [[:Insect Repellant]]
 studded leather armor (equipped)
 short sword
 [[:Item:Sword of the Fisha|Sword of the Fisha]]
 shortbow
-20 arrows
-2 daggers
+arrows (20)
+daggers (2)
 thieve's tools
 leatherworker's tools
 Pocket sand
-15 square feet deinonychus hide
-2 deinonychus claws
-30 deinonychus teeth
+deinonychus hide (15sqft)
+deinonychus claws (2)
+deinonychus teeth (30)
 Stone souvenier from bridge spanning the Gorge of Death
 [[:Item:Dagger of the Hunt]]
 [[:Item:Spy's Oil]]

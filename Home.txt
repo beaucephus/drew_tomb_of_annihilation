@@ -33,20 +33,30 @@ HP: 64
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
 
+HP: 64
+
+===== 2020/01/16 =====
+Learned of the [[Lost City of Omu]]
+Arrived at [[:Fort Beluarian]]
+Fought zombie horde and banshee
+Met Percival the healer
+Met Benjamin the captain of the guard
+Met [[:Liara Portyr]] leader of [[:Fort Beluarian]]
+Learned about [[:Ras Nissi]]
+
+Looking for Thieve's Cant and Dino pet 
+
+
 ===== 2020/01/08 =====
 Giant rock in the sky probably around hex 3740
 Saved an arrakora in the Pterrofolk tower
 Defeated the Pterrofolk and investigated the zigurrat atop it. Found magic ring.
 
-HP: 46
-action surge
-second wind
-Sword of the Fisha: 2
-
+===== 2020/01/09 =====
 
 ===== 2019/12/12 =====
 Ambushed by vines, Quasha got stolen by flying creature.
-Climbed the tower in hex 4233. Fought spiders and zombies.
+Climbed the tower [[:Fire Finger]] in hex 4233. Fought spiders and zombies.
 Found special dagger and oil.
 Short rest.
 
