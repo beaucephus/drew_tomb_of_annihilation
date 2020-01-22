@@ -26,6 +26,9 @@ HP: 64
 [[:Improved Critical]]
 [[:Extra Attack]]
 
+===== Extra =====
++1 to animal handling checks involving dinosaurs or dinosaur-like creatures.
+
 ===== Short Rest =====
 [[Second Wind]] 
 [[Action Surge]]
@@ -35,6 +38,11 @@ HP: 64
 
 HP: 64
 
+===== 2020/01/22 Downtime Activities =====
+Found thieves Cant warning of pirate activity in the sea west of [[:Fort Beluarian]]
+Found dinomancer in the fort, let me ride a Parasaurolophus. **Gained +1 to animal handling checks involving dinos.**
+Used deinonychus parts to craft a deinonychus hide, tooth, and claw dino-saddle.
+
 ===== 2020/01/16 =====
 Learned of the [[Lost City of Omu]]
 Arrived at [[:Fort Beluarian]]
@@ -43,8 +51,6 @@ Met Percival the healer
 Met Benjamin the captain of the guard
 Met [[:Liara Portyr]] leader of [[:Fort Beluarian]]
 Learned about [[:Ras Nissi]]
-
-Looking for Thieve's Cant and Dino pet. Sell animal parts
 
 
 ===== 2020/01/08 =====

@@ -22,9 +22,7 @@ daggers (2)
 thieve's tools
 leatherworker's tools
 Pocket sand
-deinonychus hide (15sqft)
-deinonychus claws (2)
-deinonychus teeth (30)
+deinonychus hide saddle (huge)
 Stone souvenier from bridge spanning the Gorge of Death
 [[:Item:Dagger of the Hunt]]
 [[:Item:Spy's Oil]]
