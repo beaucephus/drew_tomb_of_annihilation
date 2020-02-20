@@ -5,9 +5,11 @@ Creation-Date: 2019-11-05T16:15:56-05:00
 ====== Inventory ======
 Created Tuesday 05 November 2019
 
-986 GP
+1020 GP
 6 SP
 
+Arakokra feather wreath
+diamond (500GP)
 rope (100ft)
 Potion of Healing (2)
 Potion of Greater Healing (2)
@@ -26,6 +28,7 @@ deinonychus hide saddle (huge)
 Stone souvenier from bridge spanning the Gorge of Death
 [[:Item:Dagger of the Hunt]]
 [[:Item:Spy's Oil]]
+crocodile hide 120sq ft
 
 
 ===== Explorer's Pack =====

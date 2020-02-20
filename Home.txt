@@ -7,7 +7,7 @@ Created Tuesday 05 November 2019
 
 ====== Kurai Takeru Fisha ======
 
-HP: 64
+Max HP: 77
 [[Inventory]]
 
 ===== Elf =====
@@ -20,6 +20,7 @@ HP: 64
 [[:Sneak Attack]]
 [[:Thieve's Cant]]
 [[:Cunning Action]]
+[[:Assassinate]]
 
 ===== Fighter =====
 [[:Fighting Style:Two-Weapon Fighting]]
@@ -36,7 +37,25 @@ HP: 64
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
 
-HP: 64
+HP: 67
+second wind
+
+===== 2020/02/19 =====
+Met H'ruuk and scouting party
+Went to H'ruuk's village to retrieve the Beluarian scouting party's report
+H'ruuk's village of Dungrunglung hex 4035
+More of [[:Quasha's Story]]
+Hruuk's foot has the same illness as [[:Syndra Sylvane]]
+Zombies more active at
+  Stoney Gardens hex 4445
+  Mbala (Hag) marked on map
+  Hrak Hammer, ancient dwarven mine. Hoarded by a red dragon (Tinder) hex 1650
+Goblin village of Yelliyark at hex 3326
+
+===== 2020/02/13 =====
+Looted the sarlac pit
+Met the Arakorkra at Kir'Sabal
+
 
 ===== 2020/01/22 Downtime Activities =====
 Found thieves Cant warning of pirate activity in the sea west of [[:Fort Beluarian]]
@@ -44,7 +63,7 @@ Found dinomancer in the fort, let me ride a Parasaurolophus. **Gained +1 to anim
 Used deinonychus parts to craft a deinonychus hide, tooth, and claw dino-saddle.
 
 ===== 2020/01/16 =====
-Learned of the [[Lost City of Omu]]
+Listened to [[Quasha's Story]]
 Arrived at [[:Fort Beluarian]]
 Fought zombie horde and banshee
 Met Percival the healer
@@ -55,7 +74,7 @@ Learned about [[:Ras Nissi]]
 
 ===== 2020/01/08 =====
 Giant rock in the sky probably around hex 3740
-Saved an arrakora in the Pterrofolk tower
+Saved an Nephyr arrakora in the Pterrofolk tower
 Defeated the Pterrofolk and investigated the zigurrat atop it. Found magic ring.
 
 ===== 2020/01/09 =====
