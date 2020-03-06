@@ -37,8 +37,23 @@ Max HP: 77
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
 
-HP: 67
+HP: 59
 second wind
+
+===== 2020/03/05 =====
+Encountered treants on River Tiryki
+  They have a treant friend who was turned to stone by a witch at the [[:Gardens of Nangalor]]
+Arrived at [[:Port Nianzaru]]
+Spoke with [[:Syndra Sylvane]]
+   She scryed the [[:Lost City of Omu]] in a giant sink hole.
+Visited [[:Sparkly bits and things]]
+Visited [[:Old Man Ifan Talroah]]
+Sold his last in stock ankylosaurus to Glymock the Bar Bar
+Riding ferry to [[:Fort Beluarian]]
+Rode back to [[:Port Nianzaru]]
+  Voted on dino races
+    
+    
 
 ===== 2020/02/19 =====
 Met H'ruuk and scouting party
@@ -47,10 +62,11 @@ H'ruuk's village of Dungrunglung hex 4035
 More of [[:Quasha's Story]]
 Hruuk's foot has the same illness as [[:Syndra Sylvane]]
 Zombies more active at
-  Stoney Gardens hex 4445
+  Stoney Gardens  [[:Gardens of Nangalor]]  hex 4445
   Mbala (Hag) marked on map
   Hrak Hammer, ancient dwarven mine. Hoarded by a red dragon (Tinder) hex 1650
 Goblin village of Yelliyark at hex 3326
+Departed back towards Port Nianzaru and Fort Beluarian
 
 ===== 2020/02/13 =====
 Looted the sarlac pit

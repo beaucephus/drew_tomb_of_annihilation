@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-05T19:57:09-05:00
+
+====== Flaming Fist ======
+Created Thursday 05 March 2020
+
+Mercenary company operating out of [[:Fort Beluarian]]
+
