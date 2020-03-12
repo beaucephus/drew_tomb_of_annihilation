@@ -37,8 +37,16 @@ Max HP: 77
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
 
-HP: 59
+HP: 38
 second wind
+action surge
+sword 1
+
+===== 2020/03/11 =====
+[[:Order of the Gauntlet]] got Sventolius out of jail
+Travelled to [[:Camp Vengeance]]
+
+
 
 ===== 2020/03/05 =====
 Encountered treants on River Tiryki
@@ -51,9 +59,7 @@ Visited [[:Old Man Ifan Talroah]]
 Sold his last in stock ankylosaurus to Glymock the Bar Bar
 Riding ferry to [[:Fort Beluarian]]
 Rode back to [[:Port Nianzaru]]
-  Voted on dino races
-    
-    
+  Gambled on dino races
 
 ===== 2020/02/19 =====
 Met H'ruuk and scouting party
@@ -87,13 +93,10 @@ Met Benjamin the captain of the guard
 Met [[:Liara Portyr]] leader of [[:Fort Beluarian]]
 Learned about [[:Ras Nissi]]
 
-
 ===== 2020/01/08 =====
 Giant rock in the sky probably around hex 3740
 Saved an Nephyr arrakora in the Pterrofolk tower
 Defeated the Pterrofolk and investigated the zigurrat atop it. Found magic ring.
-
-===== 2020/01/09 =====
 
 ===== 2019/12/12 =====
 Ambushed by vines, Quasha got stolen by flying creature.
@@ -109,7 +112,6 @@ Estimate thin towering spire at hex 4233
 Found [[:Sinda Berry Bush]]
 Crossed the Gorge of Death!!!
 Gathered stone piece from the bridge from the Gorge of Death
-
 
 ===== 2019/11/05 =====
 Borg tried pickpocket.
