@@ -11,7 +11,7 @@ Created Tuesday 05 November 2019
 Charter of Exploration from the [[:Flaming Fist]]
 Arakokra feather wreath
 rope (100ft)
-Potion of Healing (2)
+Potion of Healing (1)
 Potion of Greater Healing (2)
 salve (18 doses) of [[:Insect Repellant]]
 sticks of incense (4) [[:Insect Repellant]]

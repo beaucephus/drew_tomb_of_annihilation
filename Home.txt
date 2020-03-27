@@ -37,16 +37,23 @@ Max HP: 77
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
 
-HP: 38
-second wind
-action surge
-sword 1
+HP: 77
+
+
+===== 2020/03/26 =====
+Chased and Destroyed Banshee
+Got Red Amulet which seems to be a communication device with crowned undead guy.
+Long Rest back at Camp Vengeance
+Set out towards Mbala
+Talked with Nany Pupu and made a verbal deal to kill some terrorfolk in exchange for knowledge on the amulet.
+Ana found 2 hags watching our camp
+Goingto confront Nany Pupu
+**Leveled up to 9!!!**
 
 ===== 2020/03/11 =====
 [[:Order of the Gauntlet]] got Sventolius out of jail
 Travelled to [[:Camp Vengeance]]
-
-
+Defense of Camp Vengeance!!!
 
 ===== 2020/03/05 =====
 Encountered treants on River Tiryki
