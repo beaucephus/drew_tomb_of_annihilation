@@ -7,7 +7,7 @@ Created Tuesday 05 November 2019
 
 ====== Kurai Takeru Fisha ======
 
-Max HP: 77
+Max HP: 85
 [[Inventory]]
 
 ===== Elf =====
@@ -29,6 +29,7 @@ Max HP: 77
 
 ===== Extra =====
 +1 to animal handling checks involving dinosaurs or dinosaur-like creatures.
+[[:Mounted Combatant]]
 
 ===== Short Rest =====
 [[Second Wind]] 
@@ -37,8 +38,12 @@ Max HP: 77
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
 
-HP: 77
+HP: 85
 
+===== 2020/04/23 =====
+Killed Nany Pupu at [[:Mbala]]
+Travelling southeast toward giant sky rock.
+Night hags cursing Magnus and Chirp with nightmares.
 
 ===== 2020/03/26 =====
 Chased and Destroyed Banshee
@@ -47,7 +52,7 @@ Long Rest back at Camp Vengeance
 Set out towards Mbala
 Talked with Nany Pupu and made a verbal deal to kill some terrorfolk in exchange for knowledge on the amulet.
 Ana found 2 hags watching our camp
-Goingto confront Nany Pupu
+Going to confront Nany Pupu
 **Leveled up to 9!!!**
 
 ===== 2020/03/11 =====

@@ -8,8 +8,15 @@ Created Tuesday 05 November 2019
 1880 GP
 6 SP
 
+===== Treasures =====
+Arakokra feather wreath from helping the Arakokra leader.
+Amulet of the Plains from slaying banshee (currently in Ana's posession)
+Stone souvenier from bridge spanning the Gorge of Death
+Hag Molar
+Necklace with Reptile Skull
+
 Charter of Exploration from the [[:Flaming Fist]]
-Arakokra feather wreath
+
 rope (100ft)
 Potion of Healing (1)
 Potion of Greater Healing (2)
@@ -25,7 +32,7 @@ thieve's tools
 leatherworker's tools
 Pocket sand
 deinonychus hide saddle (huge)
-Stone souvenier from bridge spanning the Gorge of Death
+
 [[:Item:Dagger of the Hunt]]
 Boomstick
 
