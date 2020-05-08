@@ -5,7 +5,7 @@ Creation-Date: 2019-11-05T16:15:56-05:00
 ====== Inventory ======
 Created Tuesday 05 November 2019
 
-1880 GP
+255 GP
 6 SP
 
 ===== Treasures =====
@@ -14,12 +14,14 @@ Amulet of the Plains from slaying banshee, no magic
 Stone souvenier from bridge spanning the Gorge of Death
 Hag Molar
 Necklace with Reptile Skull
-
 Charter of Exploration from the [[:Flaming Fist]]
 
+[[:Tower Shield Armor]]
 rope (100ft)
-Potion of Healing (1)
-Potion of Greater Healing (2)
+Potion of Healing (2)
+Potion of Greater Healing (3)
+Potion of Superior Healing (1)
+Potion of Resistance
 salve (18 doses) of [[:Insect Repellant]]
 sticks of incense (4) [[:Insect Repellant]]
 studded leather armor (equipped)

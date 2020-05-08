@@ -38,11 +38,26 @@ Max HP: 85
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
 
+===== Status =====
 HP: 85
+
+===== 2020/05/07 =====
+Heading north to [[:Port Nianzaru]]
+Found dinosaur ranch? blood on the ground outside the house
+Rounded up Droophy's Ankylosauruses.
+FUCKING UNIREX!!! Unirex lives somewhere to the south-southwest of Dungrunlung
+Droophy gift me an Ankylosaurus.
+I named him Thager
+Back in Port Nianzaru, doing research
+  "Nine gods united as one open the heart of Omu"
+  Moa: snake, NangNang: grung, Obolaka: rat, Shegombe: jaguar, Wongo: monkey, Kubezon: frog, Eijin: rabbit, Papazautle: heron, Unk: snail
+Fence for stolen goods down at the docks
+Got quest from Thomb Two-fingers
+  Received Rope of Protection from Good and Evil in exchange for finding crown for Thomb
+  Crown is in [[:Gardens of Nangalor]]
 
 ===== 2020/04/30 =====
 I missed 2/3 of the session.
-
 
 ===== 2020/04/23 =====
 Killed Nany Pupu at [[:Mbala]]
@@ -136,7 +151,7 @@ Qwasha recommends purchasing a Charter of Exploration
 Picked up guide Qwasha and Weed
 Wakanga recommends [[:House of Repose]] Inn
 Wakanga recommends to met [[:Jesamine]]
-Landing in [[:Chult]] at [[Port Nianzaru]] to meet a merchant prince [[:Wakanga Otamu]]
+Landing in [[:]][[:Chult|Chul]][[t]] at [[Port Nianzaru]] to meet a merchant prince [[:Wakanga Otamu]]
 Agreed to lift the curse aflicting Syndra in exchange for a Ring of Wishes (2 charges)
 Met [[Syndra Sylvane]]
 Kurai is searching for the [[:Ytepka Society]] in order to learn how to capture and tame a Cultian beast.

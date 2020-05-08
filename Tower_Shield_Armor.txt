@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-08T00:00:45-04:00
+
+====== Tower Shield Armor ======
+Created Friday 08 May 2020
+
+Studded Leather Armor
+
+3 charges
+1 charge to cast shield as a reaction.
+Regains 1 charge at dawn
