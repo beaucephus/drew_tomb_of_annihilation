@@ -37,9 +37,18 @@ Max HP: 85
 
 ===== Long Rest =====
 [[:Item:Sword of the Fisha]]
+[[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 85
+HP: 80
+Tower Shield Armor 1
+action surge
+
+===== 2020/05/14 =====
+Marshmallow is my ankylosaurus
+Found tabaxi, it was a night hag, she got away.
+Exploring [[:Gardens of Nangalor]]
+
 
 ===== 2020/05/07 =====
 Heading north to [[:Port Nianzaru]]
@@ -47,7 +56,7 @@ Found dinosaur ranch? blood on the ground outside the house
 Rounded up Droophy's Ankylosauruses.
 FUCKING UNIREX!!! Unirex lives somewhere to the south-southwest of Dungrunlung
 Droophy gift me an Ankylosaurus.
-I named him Thager
+I named him Marshmallow
 Back in Port Nianzaru, doing research
   "Nine gods united as one open the heart of Omu"
   Moa: snake, NangNang: grung, Obolaka: rat, Shegombe: jaguar, Wongo: monkey, Kubezon: frog, Eijin: rabbit, Papazautle: heron, Unk: snail

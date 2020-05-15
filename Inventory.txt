@@ -5,8 +5,16 @@ Creation-Date: 2019-11-05T16:15:56-05:00
 ====== Inventory ======
 Created Tuesday 05 November 2019
 
-255 GP
+257 GP
 6 SP
+
+===== Equipped =====
+[[:Tower Shield Armor]]
+short sword 
+[[:Item:Sword of the Fisha|Sword of the Fisha]]
+shortbow
+arrows (20)
+daggers (2)
 
 ===== Treasures =====
 Arakokra feather wreath from helping the Arakokra leader.
@@ -16,7 +24,6 @@ Hag Molar
 Necklace with Reptile Skull
 Charter of Exploration from the [[:Flaming Fist]]
 
-[[:Tower Shield Armor]]
 rope (100ft)
 Potion of Healing (2)
 Potion of Greater Healing (3)
@@ -24,12 +31,7 @@ Potion of Superior Healing (1)
 Potion of Resistance
 salve (18 doses) of [[:Insect Repellant]]
 sticks of incense (4) [[:Insect Repellant]]
-studded leather armor (equipped)
-short sword
-[[:Item:Sword of the Fisha|Sword of the Fisha]]
-shortbow
-arrows (20)
-daggers (2)
+studded leather armor
 thieve's tools
 leatherworker's tools
 Pocket sand
