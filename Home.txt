@@ -40,15 +40,24 @@ Max HP: 85
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 80
+HP: 50
 Tower Shield Armor 1
-action surge
+Sword of the Fisha 2
+Action Surge
+bardic inspiration
+
+===== 2020/05/28 =====
+Looting Gardens of Nangalor
+Found [[:Amulet of the Golden Mongoose]]
+Found crown and second god statue of a Heron
+Traveling south and fighting yuan-ti
+Found god statue of monkey, Wongo
 
 ===== 2020/05/14 =====
 Marshmallow is my ankylosaurus
 Found tabaxi, it was a night hag, she got away.
 Exploring [[:Gardens of Nangalor]]
-
+Defeated Medusa
 
 ===== 2020/05/07 =====
 Heading north to [[:Port Nianzaru]]
@@ -67,6 +76,7 @@ Got quest from Thomb Two-fingers
 
 ===== 2020/04/30 =====
 I missed 2/3 of the session.
+
 
 ===== 2020/04/23 =====
 Killed Nany Pupu at [[:Mbala]]
