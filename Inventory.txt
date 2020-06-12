@@ -19,7 +19,6 @@ daggers (2)
 
 
 [[:Folding Boat]]
-rope (100ft)
 Potion of Healing (2)
 Potion of Greater Healing (3)
 Potion of Superior Healing (1)

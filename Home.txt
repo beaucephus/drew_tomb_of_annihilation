@@ -40,11 +40,14 @@ Max HP: 85
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 50
-Tower Shield Armor 1
-Sword of the Fisha 2
-Action Surge
-bardic inspiration
+HP: 85
+
+===== 2020/06/11 =====
+Found Quasha and racist old man.
+Found lost city of Omu
+Tied off my rope at Omu
+12: Monkey Temple
+Got the rabbit cube.
 
 ===== 2020/05/28 =====
 Looting Gardens of Nangalor
