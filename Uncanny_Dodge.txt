@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-06-18T20:16:03-04:00
+
+====== Uncanny Dodge ======
+Created Thursday 18 June 2020
+
+when an attacker that you can see hits you with an Attack, you can use your Reaction to halve the attack's damage against you.

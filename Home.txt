@@ -7,7 +7,7 @@ Created Tuesday 05 November 2019
 
 ====== Kurai Takeru Fisha ======
 
-Max HP: 85
+Max HP: 93
 [[Inventory]]
 
 ===== Elf =====
@@ -21,6 +21,7 @@ Max HP: 85
 [[:Thieve's Cant]]
 [[:Cunning Action]]
 [[:Assassinate]]
+[[:Uncanny Dodge]]
 
 ===== Fighter =====
 [[:Fighting Style:Two-Weapon Fighting]]
@@ -41,6 +42,12 @@ Max HP: 85
 
 ===== Status =====
 HP: 85
+
+===== 2020/06/18 =====
+Yuanti arrested us in Omu
+Found 10-year-old boy in yuanti prison
+Come back for the boy and old man!!!
+Kill the short, stout coral snake yuan-ti
 
 ===== 2020/06/11 =====
 Found Quasha and racist old man.
