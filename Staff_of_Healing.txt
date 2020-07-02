@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-01T23:54:21-04:00
+
+====== Staff of Healing ======
+Created Wednesday 01 July 2020
+
+This staff has 10 Charges.
+While holding it, you can use an action to expend 1 or more of its Charges to cast one of the following Spells from it, using your spell save DC and Spellcasting Ability modifier: 
+Cure Wounds (1 charge per Spell Level, up to 4th)
+Lesser Restoration (2 charges)
+Mass Cure Wounds (5 charges).
+
+The staff regains 1d6 + 4 expended Charges daily at dawn. 
+If you expend the last charge, roll a d20. 
+On a 1. the staff vanishes in a flash of light, lost forever.

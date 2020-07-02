@@ -10,7 +10,7 @@ Created Tuesday 05 November 2019
 
 ===== Equipped =====
 [[:Tower Shield Armor]]
-[[:Amulet of the Golden Mongoose]]
+[[:Staff of Healing]]
 short sword 
 [[:Item:Sword of the Fisha|Sword of the Fisha]]
 shortbow
@@ -18,6 +18,7 @@ arrows (20)
 daggers (2)
 
 
+[[:Amulet of the Golden Mongoose]]
 [[:Folding Boat]]
 Potion of Healing (2)
 Potion of Greater Healing (3)
@@ -37,6 +38,7 @@ Boomstick
 ===== Explorer's Pack =====
 
 ===== Treasures =====
+Unirex teeth
 Arakokra feather wreath from helping the Arakokra leader.
 Amulet of the Plains from slaying banshee, no magic
 Stone souvenier from bridge spanning the Gorge of Death
