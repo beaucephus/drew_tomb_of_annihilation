@@ -41,9 +41,11 @@ Max HP: 93
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 57
-sword of the fisha: 3
-action surge
+HP: 1
+Second wind
+
+===== 2020/07/09 =====
+Exploring Acererak's tomb 
 
 ===== 2020/07/01 =====
 Sventollius regaining his honor doing a trial to get last statuette
