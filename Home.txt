@@ -41,8 +41,14 @@ Max HP: 93
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 1
-Second wind
+HP: 68
+Staff of Healing 5
+hitdice fighter - 5
+hitdice rogue - 3
+tower shield armor - 2
+
+===== 2020/07/16 =====
+
 
 ===== 2020/07/09 =====
 Exploring Acererak's tomb 
