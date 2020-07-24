@@ -41,14 +41,19 @@ Max HP: 93
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 68
-Staff of Healing 5
-hitdice fighter - 5
-hitdice rogue - 3
-tower shield armor - 2
+HP: 93
+hitdice fighter - 2
+hitdice rogue - 0
+tower shield armor - 1
+action surge
+
+===== 2020/07/23 =====
+Exploring the tomb
+Picked up staff from dead goat-man
+
 
 ===== 2020/07/16 =====
-
+Exploring the tomb
 
 ===== 2020/07/09 =====
 Exploring Acererak's tomb 

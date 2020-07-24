@@ -17,7 +17,8 @@ shortbow
 arrows (20)
 daggers (2)
 
-
+[[:Skull Amulet]]
+Bronze staff from dead goat-man
 [[:Amulet of the Golden Mongoose]]
 [[:Folding Boat]]
 Potion of Healing (2)
