@@ -27,7 +27,6 @@ Potion of Superior Healing (1)
 Potion of Resistance
 salve (18 doses) of [[:Insect Repellant]]
 sticks of incense (4) [[:Insect Repellant]]
-studded leather armor
 thieve's tools
 leatherworker's tools
 Pocket sand

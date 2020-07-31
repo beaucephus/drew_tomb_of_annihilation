@@ -41,11 +41,15 @@ Max HP: 93
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 93
+HP: 75
 hitdice fighter - 2
 hitdice rogue - 0
 tower shield armor - 1
 action surge
+staf of healing - 9
+
+===== 2020/07/30 =====
+Exploring the tomb
 
 ===== 2020/07/23 =====
 Exploring the tomb
