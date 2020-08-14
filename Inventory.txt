@@ -5,12 +5,12 @@ Creation-Date: 2019-11-05T16:15:56-05:00
 ====== Inventory ======
 Created Tuesday 05 November 2019
 
-300 GP
+871 GP
 6 SP
 
 ===== Equipped =====
 [[:Tower Shield Armor]]
-[[:Staff of Healing]]
+[[:Flame tongue short sword]]
 short sword 
 [[:Item:Sword of the Fisha|Sword of the Fisha]]
 shortbow

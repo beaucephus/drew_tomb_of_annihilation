@@ -7,7 +7,7 @@ Created Tuesday 05 November 2019
 
 ====== Kurai Takeru Fisha ======
 
-Max HP: 93
+Max HP: 102
 [[Inventory]]
 
 ===== Elf =====
@@ -41,13 +41,17 @@ Max HP: 93
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 75
-action surge
-sword of the fisha - 1
-hitdice fighter - 0
+HP: 49
+bardic inspiration
+
+sword of the fisha - 2
+hitdice fighter - 1
 hitdice rogue - 0
 tower shield armor - 1
-staff of healing - 0
+
+===== 2020/08/13 =====
+Beat the Beholder
+Went down to the bottom floor to fight gargoyles
 
 ===== 2020/08/06 =====
 Eploring the tomb
