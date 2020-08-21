@@ -7,7 +7,7 @@ Created Tuesday 05 November 2019
 
 ====== Kurai Takeru Fisha ======
 
-Max HP: 102
+Max HP: 96
 [[Inventory]]
 
 ===== Elf =====
@@ -41,69 +41,75 @@ Max HP: 102
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 49
-bardic inspiration
+HP: 96
 
-sword of the fisha - 2
-hitdice fighter - 1
-hitdice rogue - 0
-tower shield armor - 1
+sword of the fisha - 0
+hitdice fighter - 2
+hitdice rogue - 1
+tower shield armor - 0
 
-===== 2020/08/13 =====
+===== 26 2020/08/20 =====
+The pit in the center is really deep (200 feet)
+Remember to give the mandolin to chirp
+Ghoul images: Tall dragonborn standing in front of a bottle with purple smoke in a narrow corridor
+Dragonborn's form is changing when touching gas.
+He's in some narrow corridor in the Papazoatl sarcophagus room
+
+===== 25 2020/08/13 =====
 Beat the Beholder
 Went down to the bottom floor to fight gargoyles
 
-===== 2020/08/06 =====
+===== 24 2020/08/06 =====
 Eploring the tomb
 Fought beholder, Belchorzh
 
-===== 2020/07/30 =====
+===== 23 2020/07/30 =====
 Exploring the tomb
 
-===== 2020/07/23 =====
+===== 22 2020/07/23 =====
 Exploring the tomb
 Picked up staff from dead goat-man
 
 
-===== 2020/07/16 =====
+===== 21 2020/07/16 =====
 Exploring the tomb
 
-===== 2020/07/09 =====
+===== 20 2020/07/09 =====
 Exploring Acererak's tomb 
 
-===== 2020/07/01 =====
+===== 19 2020/07/01 =====
 Sventollius regaining his honor doing a trial to get last statuette
 Found grung, Mbock, who was separated from his war party.
 He led us to the UniRex!
 Found Acerrack's Obelisk and 2 cave entrances
 
-===== 2020/06/18 =====
+===== 18 2020/06/18 =====
 Yuanti arrested us in Omu
 Found 10-year-old boy in yuanti prison
 Come back for the boy and old man!!!
 Kill the short, stout coral snake yuan-ti
 
-===== 2020/06/11 =====
+===== 17 2020/06/11 =====
 Found Quasha and racist old man.
 Found lost city of Omu
 Tied off my rope at Omu
 12: Monkey Temple
 Got the rabbit cube.
 
-===== 2020/05/28 =====
+===== 16 2020/05/28 =====
 Looting Gardens of Nangalor
 Found [[:Amulet of the Golden Mongoose]]
 Found crown and second god statue of a Heron
 Traveling south and fighting yuan-ti
 Found god statue of monkey, Wongo
 
-===== 2020/05/14 =====
+===== 15 2020/05/14 =====
 Marshmallow is my ankylosaurus
 Found tabaxi, it was a night hag, she got away.
 Exploring [[:Gardens of Nangalor]]
 Defeated Medusa
 
-===== 2020/05/07 =====
+===== 14 2020/05/07 =====
 Heading north to [[:Port Nianzaru]]
 Found dinosaur ranch? blood on the ground outside the house
 Rounded up Droophy's Ankylosauruses.
@@ -118,16 +124,16 @@ Got quest from Thomb Two-fingers
   Received Rope of Protection from Good and Evil in exchange for finding crown for Thomb
   Crown is in [[:Gardens of Nangalor]]
 
-===== 2020/04/30 =====
+===== 13 2020/04/30 =====
 I missed 2/3 of the session.
 
 
-===== 2020/04/23 =====
+===== 12 2020/04/23 =====
 Killed Nany Pupu at [[:Mbala]]
 Travelling southeast toward giant sky rock.
 Night hags cursing Magnus and Chirp with nightmares.
 
-===== 2020/03/26 =====
+===== 11 2020/03/26 =====
 Chased and Destroyed Banshee
 Got Red Amulet which seems to be a communication device with crowned undead guy.
 Long Rest back at Camp Vengeance
@@ -137,12 +143,12 @@ Ana found 2 hags watching our camp
 Going to confront Nany Pupu
 **Leveled up to 9!!!**
 
-===== 2020/03/11 =====
+===== 10 2020/03/11 =====
 [[:Order of the Gauntlet]] got Sventolius out of jail
 Travelled to [[:Camp Vengeance]]
 Defense of Camp Vengeance!!!
 
-===== 2020/03/05 =====
+===== 9 2020/03/05 =====
 Encountered treants on River Tiryki
   They have a treant friend who was turned to stone by a witch at the [[:Gardens of Nangalor]]
 Arrived at [[:Port Nianzaru]]
@@ -155,7 +161,7 @@ Riding ferry to [[:Fort Beluarian]]
 Rode back to [[:Port Nianzaru]]
   Gambled on dino races
 
-===== 2020/02/19 =====
+===== 8 2020/02/19 =====
 Met H'ruuk and scouting party
 Went to H'ruuk's village to retrieve the Beluarian scouting party's report
 H'ruuk's village of Dungrunglung hex 4035
@@ -168,17 +174,17 @@ Zombies more active at
 Goblin village of Yelliyark at hex 3326
 Departed back towards Port Nianzaru and Fort Beluarian
 
-===== 2020/02/13 =====
+===== 7 2020/02/13 =====
 Looted the sarlac pit
 Met the Arakorkra at Kir'Sabal
 
 
-===== 2020/01/22 Downtime Activities =====
+===== 6 2020/01/22 Downtime Activities =====
 Found thieves Cant warning of pirate activity in the sea west of [[:Fort Beluarian]]
 Found dinomancer in the fort, let me ride a Parasaurolophus. **Gained +1 to animal handling checks involving dinos.**
 Used deinonychus parts to craft a deinonychus hide, tooth, and claw dino-saddle.
 
-===== 2020/01/16 =====
+===== 5 2020/01/16 =====
 Listened to [[Quasha's Story]]
 Arrived at [[:Fort Beluarian]]
 Fought zombie horde and banshee
@@ -187,18 +193,18 @@ Met Benjamin the captain of the guard
 Met [[:Liara Portyr]] leader of [[:Fort Beluarian]]
 Learned about [[:Ras Nissi]]
 
-===== 2020/01/08 =====
+===== 4 2020/01/08 =====
 Giant rock in the sky probably around hex 3740
 Saved an Nephyr arrakora in the Pterrofolk tower
 Defeated the Pterrofolk and investigated the zigurrat atop it. Found magic ring.
 
-===== 2019/12/12 =====
+===== 3 2019/12/12 =====
 Ambushed by vines, Quasha got stolen by flying creature.
 Climbed the tower [[:Fire Finger]] in hex 4233. Fought spiders and zombies.
 Found special dagger and oil.
 Short rest.
 
-===== 2019/11/21 =====
+===== 2 2019/11/21 =====
 Leaving [[:Port Nianzaru]] for [[:Fort Beluarian]]
 Applied [[:Insect Repellant]] incense.
 Fought deinonychus, zombies, and ghouls/ghast
@@ -207,7 +213,7 @@ Found [[:Sinda Berry Bush]]
 Crossed the Gorge of Death!!!
 Gathered stone piece from the bridge from the Gorge of Death
 
-===== 2019/11/05 =====
+===== 1 2019/11/05 =====
 Borg tried pickpocket.
 Met Volo who spoke of a Ghost village near the [[:Aldani Basin]]
 Qwasha recommends purchasing a Charter of Exploration
