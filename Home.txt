@@ -41,16 +41,21 @@ Max HP: 96
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 96
+HP: 73
 
-sword of the fisha - 0
+action surge
+exhaustion - 1
+sword of the fisha - 2
 hitdice fighter - 2
 hitdice rogue - 1
 tower shield armor - 0
 
+===== 27 2020/08/27 =====
+got big gem from grandfather clock in minotaur maze room
+Sven got gold armor, fought some mummy dudes
+
 ===== 26 2020/08/20 =====
 The pit in the center is really deep (200 feet)
-Remember to give the mandolin to chirp
 Ghoul images: Tall dragonborn standing in front of a bottle with purple smoke in a narrow corridor
 Dragonborn's form is changing when touching gas.
 He's in some narrow corridor in the Papazoatl sarcophagus room
