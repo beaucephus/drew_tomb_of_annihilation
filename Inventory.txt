@@ -20,6 +20,9 @@ Potion of Healing
 deinonychus hide saddle (huge) (on marshmallow)
 [[:Item:Dagger of the Hunt]]
 Boomstick
+3 pinches of onyx dust
+2 pinches of moonstone dust
+1 pinch of ruby dust
 
 ===== Treasures =====
 big fist-sized gem from grandfather clock

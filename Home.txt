@@ -41,14 +41,19 @@ Max HP: 96
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 73
+HP: 96
 
+second wind
 action surge
 exhaustion - 1
-sword of the fisha - 2
+sword of the fisha - 3
 hitdice fighter - 2
 hitdice rogue - 1
 tower shield armor - 0
+
+===== 28 2020/09/03 =====
+lecturn and crazy spinning rooms
+I got MC'd and went crazy
 
 ===== 27 2020/08/27 =====
 got big gem from grandfather clock in minotaur maze room
