@@ -43,13 +43,15 @@ Max HP: 96
 ===== Status =====
 HP: 96
 
-second wind
 action surge
-exhaustion - 1
-sword of the fisha - 3
-hitdice fighter - 2
-hitdice rogue - 1
-tower shield armor - 0
+sword of the fisha - 1
+hitdice fighter - 0
+hitdice rogue - 0
+tower shield armor - 1
+
+===== 29 2020/09/10 =====
+long rest
+went around the cog rooms and fought an aboleth
 
 ===== 28 2020/09/03 =====
 lecturn and crazy spinning rooms
