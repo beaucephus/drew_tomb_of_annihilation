@@ -13,6 +13,7 @@ Created Tuesday 05 November 2019
 [[:Flame tongue short sword]]
 [[:Item:Sword of the Fisha|Sword of the Fisha]]
 [[:Necklace of Fireballs]]
+Hand Crossbow
 
 Potion of Healing
 [[:Skull Amulet]]

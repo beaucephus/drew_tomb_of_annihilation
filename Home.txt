@@ -41,13 +41,19 @@ Max HP: 96
 [[:Tower Shield Armor]]
 
 ===== Status =====
-HP: 96
+HP: 54
+horn inspiration
+bless
 
+second wind
 action surge
-sword of the fisha - 1
+sword of the fisha - 2
 hitdice fighter - 0
 hitdice rogue - 0
-tower shield armor - 1
+tower shield armor - 3
+
+===== 30 2020/09/17 =====
+Explore Aboleth level some more
 
 ===== 29 2020/09/10 =====
 long rest
