@@ -5,26 +5,4 @@ Creation-Date: 2019-11-05T16:15:56-05:00
 ====== Inventory ======
 Created Tuesday 05 November 2019
 
-871 GP
-6 SP
 
-===== Equipped =====
-[[:Tower Shield Armor]]
-[[:Flame tongue short sword]]
-[[:Item:Sword of the Fisha|Sword of the Fisha]]
-[[:Necklace of Fireballs]]
-Hand Crossbow
-
-Potion of Healing
-[[:Skull Amulet]]
-[[:Folding Boat]]
-deinonychus hide saddle (huge) (on marshmallow)
-[[:Item:Dagger of the Hunt]]
-Boomstick
-3 pinches of onyx dust
-2 pinches of moonstone dust
-1 pinch of ruby dust
-
-===== Treasures =====
-big fist-sized gem from grandfather clock
-music box (250GP)

@@ -5,55 +5,17 @@ Creation-Date: 2019-11-05T16:00:35-05:00
 ====== Home ======
 Created Tuesday 05 November 2019
 
-====== Kurai Takeru Fisha ======
 
-Max HP: 96
-[[Inventory]]
 
-===== Elf =====
-[[Darkvision]]
-[[Fey Ancestry]]
-[[Trance]]
-[[:Spell:Message]]
-
-===== Rogue =====
-[[:Sneak Attack]]
-[[:Thieve's Cant]]
-[[:Cunning Action]]
-[[:Assassinate]]
-[[:Uncanny Dodge]]
-
-===== Fighter =====
-[[:Fighting Style:Two-Weapon Fighting]]
-[[:Improved Critical]]
-[[:Extra Attack]]
-
-===== Extra =====
-+1 to animal handling checks involving dinosaurs or dinosaur-like creatures.
-[[:Mounted Combatant]]
-
-===== Short Rest =====
-[[Second Wind]] 
-[[Action Surge]]
-
-===== Long Rest =====
-[[:Item:Sword of the Fisha]]
-[[:Tower Shield Armor]]
-
-===== Status =====
-HP: 54
-horn inspiration
-bless
-
-second wind
-action surge
-sword of the fisha - 2
-hitdice fighter - 0
-hitdice rogue - 0
-tower shield armor - 3
+===== 30 2020/09/24 =====
+Finishing fight with devils in the chutan warrior's room
+Kurai fucking died
+[[:Errol Gandling]]
 
 ===== 30 2020/09/17 =====
 Explore Aboleth level some more
+Found hellish room with fire and devils and such
+Chugakari and his mastodon Gom, ancient chultan warrior who was banished to the nine hells
 
 ===== 29 2020/09/10 =====
 long rest

@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-24T22:26:24-04:00
+
+====== Errol Gandling ======
+Created Thursday 24 September 2020
+
+[[:Errol Gandling's Traits and Backstory]]
+
+Max HP: 96
+[[Inventory]]
+
+===== Eladrin (Winter) =====
+[[:Fey Step]]
+
+===== Passive =====
+
+===== Short Rest =====
+
+
+===== Long Rest =====
+Spells

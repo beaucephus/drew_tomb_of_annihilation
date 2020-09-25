@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-24T22:27:08-04:00
+
+====== Kurai Takeru Fish ======
+Created Thursday 24 September 2020
+
+Max HP: 96
+[[:Kurai's Inventory]]
+
+===== Elf =====
+[[Darkvision]]
+[[Fey Ancestry]]
+[[Trance]]
+[[:Spell:Message]]
+
+===== Rogue =====
+[[:Sneak Attack]]
+[[:Thieve's Cant]]
+[[:Cunning Action]]
+[[:Assassinate]]
+[[:Uncanny Dodge]]
+
+===== Fighter =====
+[[:Fighting Style:Two-Weapon Fighting]]
+[[:Improved Critical]]
+[[:Extra Attack]]
+
+===== Extra =====
++1 to animal handling checks involving dinosaurs or dinosaur-like creatures.
+[[:Mounted Combatant]]
+
+===== Short Rest =====
+[[Second Wind]] 
+[[Action Surge]]
+
+===== Long Rest =====
+[[:Item:Sword of the Fisha]]
+[[:Tower Shield Armor]]
