@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-01T21:33:29-04:00
+
+====== Inured to Undeath ======
+Created Thursday 01 October 2020
+
+Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced.
+
+You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.

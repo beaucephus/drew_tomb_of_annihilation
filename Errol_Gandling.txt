@@ -7,16 +7,72 @@ Created Thursday 24 September 2020
 
 [[:Errol Gandling's Traits and Backstory]]
 
-Max HP: 96
+Max HP: 86
 [[Inventory]]
 
-===== Eladrin (Winter) =====
-[[:Fey Step]]
-
 ===== Passive =====
+[[:Grim Harvest]]
+[[Undead Thralls]]
+[[:Inured to Undeath]]
 
 ===== Short Rest =====
-
+[[:Fey Step]]
 
 ===== Long Rest =====
+[[:Arcane Recovery]]
 Spells
+
+===== Spells =====
+**Cantrips**
+Dancing Lights (C)
+Fire Bolt
+Mold Earth
+Shape Water
+Toll the Dead
+
+**1st level**
+Absorb Elements
+Detect Magic (C,R)
+Expeditious Retreat (C)
+False Life
+Find Familiar (R)
+Mage Armor
+Shield
+Tasha's Hideous Laughter (C)
+Thunderwave
+
+**2nd level**
+Dragon's Breath (C)
+Locate Object (C)
+Scorching Ray
+Spider Climb (C)
+Suggestion (C)
+
+**3rd level**
+Animate Dead
+Counterspell
+Dispel Magic
+Fly (C)
+Lightning Bolt
+Major Image (C)
+Phantom Steed (R)
+Remove Curse
+Slow (C)
+
+**4th level**
+Dimension Door
+Greater Invisibility (C)
+Polymorph (C)
+Wall of Fire (C)
+
+**5th level**
+Cloudkill (C)
+Danse Macabre (C)
+Enervation (C)
+Rary's Telepathic Bond (R)
+Teleportation Circle
+
+**6th level**
+Circle of Death
+Create Undead
+Disintegrate

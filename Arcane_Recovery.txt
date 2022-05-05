@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-01T21:40:38-04:00
+
+====== Arcane Recovery ======
+Created Thursday 01 October 2020
+
+You have learned to regain some of your magical energy by studying your Spellbook.
+Once per day when you finish a Short Rest, you can choose expended Spell Slots to recover.
+The Spell Slots can have a combined level that is equal to or less than half your Wizard level (rounded up),
+and none of the slots can be 6th level or higher.
